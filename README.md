@@ -1,4 +1,4 @@
 ExplicitHistory
 
-pd: 68
-width: 175
+pd: 68mm
+width: 136mm
