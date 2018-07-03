@@ -6,8 +6,4 @@ temple-straight: 105mm
 temple-total: 130mm
 ```
 
-
-```
-Notes:
-Nose piece: loft, list item
-```
+![alt text](img.png)
