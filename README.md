@@ -9,3 +9,5 @@ temple-total: 130mm
 ![alt text](https://i.imgur.com/tLkcWVJ.jpg)
 
 ![alt text](https://i.imgur.com/exagBJL.jpg)
+
+![alt text](https://i.imgur.com/37FZcAK.jpg)
